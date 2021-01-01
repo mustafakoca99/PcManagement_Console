@@ -1,0 +1,7 @@
+C:\Users\Mustafa Koca\Desktop\infopcbattery\infopcbattery\bin\Debug\infopcbattery.exe.config
+C:\Users\Mustafa Koca\Desktop\infopcbattery\infopcbattery\bin\Debug\infopcbattery.exe
+C:\Users\Mustafa Koca\Desktop\infopcbattery\infopcbattery\bin\Debug\infopcbattery.pdb
+C:\Users\Mustafa Koca\Desktop\infopcbattery\infopcbattery\obj\Debug\PcInfo(BilgisayarYonetimi).csproj.CoreCompileInputs.cache
+C:\Users\Mustafa Koca\Desktop\infopcbattery\infopcbattery\obj\Debug\infopcbattery.exe
+C:\Users\Mustafa Koca\Desktop\infopcbattery\infopcbattery\obj\Debug\infopcbattery.pdb
+C:\Users\Mustafa Koca\Desktop\infopcbattery\infopcbattery\obj\Debug\PcInfo(BilgisayarYonetimi).csprojAssemblyReference.cache
